@@ -17,7 +17,7 @@ methods: {
 greeting: function() {
 return 'Yo!, what up?!?!';
 }
-}
+},
   name: "App",
   components: {
     
